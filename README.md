@@ -1,5 +1,5 @@
 # VenmoDataAnalysis
-After finishing a data science course on Udemy, I decided to apply the knowledge I have gained to a real world scenario. I mainly focused on exploratory analysis, feature engineering, and visualization of data to find trends that would generate useful insights. All of the work is done through Jupyter Notebook, and I have provided both the python file and html file(visualizations included) of my work. 
+After finishing a data science course on Udemy, I decided to apply the knowledge I have gained to a real world scenario. I mainly focused on exploratory analysis, feature engineering, and visualization of data to find trends that would generate useful insights. All of the work is done through Jupyter Notebook, and I have provided both the python file and html file(visualizations included).
 
 # Analysis 
 I created multiple graphs(countplot, heatmap, line graph) visualizing the trends of # of transactions to a specific time measurement(hours, month, day of the week). These graphs contain data from all the years ranging from 2013 to 2016. A common pattern I noticed is that most transactions occur during April and May, which was interesting to see, as I originally thought that the highest usage would be during the holiday seasons in November and December. 
