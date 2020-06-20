@@ -6,7 +6,7 @@ I created multiple graphs(countplot, heatmap, line graph) visualizing the trends
 
 When we look at usage during days of the week, we can see that the higest number of transactions occur during the weekends throughout all the years. This is expected because people would have more time to spend money on different types of items and services. 
 
-Now, lets look even closer and find the trends in usage by the hours. We can see a high amount of transactions starting at hour 0(midnight), in which it gradually decreases as we approach 9-10 AM. There is a gradual increase from 10 AM to 11 PM, and the number of transactions peak at 11 PM. The high number of transactions during hour 16 - 19 may be correlated with busy commuting hours and paying Uber or Lyft drivers. 
+Now, lets look even closer and find the trends in usage by the hours. We can see a high amount of transactions starting at hour 0(midnight), in which it gradually decreases as we approach 9-10 AM. There is a gradual increase from 10 AM to 11 PM, and the number of transactions peak at 11 PM. The high number of transactions during hour 16 - 19 may be correlated with rush hour and paying Uber or Lyft drivers. 
 
 # Insights
 From our data, I have developed a few insights that could possibly help Venmo save money or even profit. 
