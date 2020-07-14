@@ -20,6 +20,4 @@ I implemented a function that displays a user's connections based on their user 
 # Credits
 Udemy Course: https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/ by Jose Portilla 
 
-Venmo Dataset Download: https://www.dropbox.com/s/izchy7841iuusz5/venmoSample.csv?dl=0&fbclid=IwAR2OrqXh6W0eMzyGCPmNmXfG4U4zyL-ezKq3Ym2sekuHU4laSQZNEqOVls0
-
 # Thank You! 
